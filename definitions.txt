@@ -1,0 +1,11 @@
+{
+
+<word>Feminine</word>
+
+<tldr>of, characteristic of, or befitting female gender performance.</tldr>
+
+<definition>of, characteristic of, or befitting female gender performance. Feminine is also often used to describe a lack of masculine performance from a male-bodied person.</definition>
+
+<primary>http://www.dc-sds.org/files/glossary.pdf</primary>
+
+}
